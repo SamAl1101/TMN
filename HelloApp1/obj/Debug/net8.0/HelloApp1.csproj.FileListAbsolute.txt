@@ -1,0 +1,14 @@
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\bin\Debug\net8.0\HelloApp1.exe
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\bin\Debug\net8.0\HelloApp1.deps.json
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\bin\Debug\net8.0\HelloApp1.runtimeconfig.json
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\bin\Debug\net8.0\HelloApp1.dll
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\bin\Debug\net8.0\HelloApp1.pdb
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\HelloApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\HelloApp1.AssemblyInfoInputs.cache
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\HelloApp1.AssemblyInfo.cs
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\HelloApp1.csproj.CoreCompileInputs.cache
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\HelloApp1.dll
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\refint\HelloApp1.dll
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\HelloApp1.pdb
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\HelloApp1.genruntimeconfig.cache
+C:\Sam\Programming\2024\September\2309\HelloApp1\HelloApp1\obj\Debug\net8.0\ref\HelloApp1.dll
